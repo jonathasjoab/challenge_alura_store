@@ -6,19 +6,21 @@ Este projeto foi desenvolvido como parte do programa Oracle Next Education - G8,
 
 ---
 
-## 🔧 Tecnologias utilizadas
+## Tecnologias utilizadas
 
-- Python
-- Pandas
-- Matplotlib
-- Seaborn
-- Jupyter Notebook
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ff5722?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-## Como visualizar o projeto?
 
-Abra o arquivo alurastore.ipynib através do Google Colab ou outra IDE de sua preferência.
+## Como executar o notebook deste projeto?
 
-## 📌 Conclusão
+Abra o arquivo AluraStoreBr.ipynib através do Google Colab ou outra IDE de sua preferência.
 
-Após a análise, foi possível identificar a loja com o pior desempenho, levando em consideração critérios como vendas totais e localização. Assim, o Sr. João poderá tomar uma decisão mais assertiva para o futuro do seu negócio.
+## Conclusão
+
+Com base na análise dos dados, a **Loja 4** foi identificada como a unidade com o pior desempenho, levando em consideração fatores como menor faturamento total, pior avaliação média dos clientes e menor volume de vendas. 
+Através das visualizações e análises espaciais, foi possível gerar insights que deram suporte à decisão estratégica do Sr. João, ajudando-o a definir qual loja vender para investir em um novo empreendimento, e também proporcionou uma excelente oportunidade para aplicar conceitos de **Python para Data Science**, incluindo tratamento de dados, análise exploratória e visualização com mapas.
 
