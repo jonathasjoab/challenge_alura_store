@@ -17,7 +17,7 @@ Este projeto foi desenvolvido como parte do programa Oracle Next Education - G8,
 
 ## Como executar o notebook deste projeto?
 
-Abra o arquivo AluraStoreBr.ipynib através do Google Colab ou outra IDE de sua preferência.
+Abra o arquivo AluraStoreBr_challenge.ipynib através do Google Colab ou outra IDE de sua preferência.
 
 ---
 
