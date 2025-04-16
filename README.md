@@ -5,7 +5,6 @@ Este projeto foi desenvolvido como parte do programa Oracle Next Education - G8,
 ![Status](https://img.shields.io/badge/status-concluído-brightgreen)
 
 ---
-
 ## Tecnologias utilizadas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -14,10 +13,13 @@ Este projeto foi desenvolvido como parte do programa Oracle Next Education - G8,
 ![Seaborn](https://img.shields.io/badge/Seaborn-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
+---
 
 ## Como executar o notebook deste projeto?
 
 Abra o arquivo AluraStoreBr.ipynib através do Google Colab ou outra IDE de sua preferência.
+
+---
 
 ## Conclusão
 
