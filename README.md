@@ -1,4 +1,4 @@
-# Challenge Alura Store (Progrma ONE G8 - Oracle Next Education)
+# Challenge Alura Store (Programa ONE G8 - Oracle Next Education)
 
 Este projeto foi desenvolvido como parte do programa Oracle Next Education - G8 em parceria com a Alura, e tem como objetivo ajudar o Sr. João a decidir qual loja deve ser vendida para que ele possa iniciar um novo empreendimento. A proposta envolve a análise de dados extraídos de arquivos CSV, avaliando o desempenho de cada loja com base em critérios como faturamento, avaliação dos clientes e produtos mais e menos vendidos. Além disso, foram realizadas análises geográficas com a geração de mapas, permitindo explorar novos insights e enriquecer a tomada de decisão.
 
